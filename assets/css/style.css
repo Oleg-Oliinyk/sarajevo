@@ -3,6 +3,11 @@ body {
     font-family: Lato;
 }
 
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
 a {
     color: #ffffff;
 }
