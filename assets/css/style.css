@@ -507,3 +507,12 @@ footer .item ul {
     display: inline-block;
     line-height: 28.5px;
 }
+
+@media(max-width: 992px) {
+    .navbar .navbar-nav {
+        align-items: center;
+    }
+    .container {
+        width: 100%;
+    }
+}
